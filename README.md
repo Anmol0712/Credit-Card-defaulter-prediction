@@ -6,8 +6,6 @@ The dataset is the **Default of Credit Card Clients in Taiwan** from the UCI Mac
 ---
 
 ## Dataset  
-
-- **Source:** Kaggle
 - **Size:** 30,000 clients  
 - **Features:** 23 predictors + 1 target  
 - **Key Variables:**  
