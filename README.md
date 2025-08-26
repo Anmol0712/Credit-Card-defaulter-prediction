@@ -5,7 +5,7 @@ The dataset is the **Default of Credit Card Clients in Taiwan** from the UCI Mac
 
 ---
 
-## 📊 Dataset  
+## Dataset  
 
 - **Source:** Kaggle
 - **Size:** 30,000 clients  
@@ -18,7 +18,7 @@ The dataset is the **Default of Credit Card Clients in Taiwan** from the UCI Mac
 
 ---
 
-## ⚙️ Models Implemented  
+## Models Implemented  
 
 - Logistic Regression  
 - K-Nearest Neighbors (KNN)  
@@ -28,7 +28,7 @@ The dataset is the **Default of Credit Card Clients in Taiwan** from the UCI Mac
 
 ---
 
-## 📈 Results  
+## Results  
 
 | Model              | Accuracy | Notes |
 |---------------------|----------|-------|
@@ -38,4 +38,4 @@ The dataset is the **Default of Credit Card Clients in Taiwan** from the UCI Mac
 | Random Forest       | ~82%     | Best balance between accuracy & interpretability |
 | SVM                 | ~82%     | High accuracy, less interpretable |
 
-👉 **Random Forest was chosen as the final model** due to its robustness, interpretability, and feature importance insights.  
+**Random Forest was chosen as the final model** due to its robustness, interpretability, and feature importance insights.  
